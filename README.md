@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá! Meu nome é Juliana Ferreira e sou Quality Assurance! 👋
 
 Here are some ideas to get you started:
 
